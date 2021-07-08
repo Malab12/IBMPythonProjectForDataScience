@@ -24,4 +24,30 @@ Using Yfinance to extract data for Tesla
 
 ![Question 1 Solution](https://github.com/Malab12/IBMPythonProjectForDataScience/blob/main/Results/q1.png?raw=true)
 
+# Question 2:
+Use Webscraping to Extract Tesla Revenue Data
+
+![Question 2 Solution](https://github.com/Malab12/IBMPythonProjectForDataScience/blob/main/Results/q2.png?raw=true)
+
+# Question 3:
+Use yfinance to Extract Stock Data from GameStop
+
+![Question 3 Solution](https://github.com/Malab12/IBMPythonProjectForDataScience/blob/main/Results/q3.png?raw=true)
+
+# Question 4:
+Use Webscraping to Extract GME Revenue Data
+
+![Question 4 Solution](https://github.com/Malab12/IBMPythonProjectForDataScience/blob/main/Results/q4.png?raw=true)
+
+# Question 5:
+Plot Tesla Stock Graph for historical share value and revenue
+
+![Question 5 Solution](https://github.com/Malab12/IBMPythonProjectForDataScience/blob/main/Results/q5.png?raw=true)
+
+# Question 6:
+Plot GameStop Stock Graph for historical share value and revenue
+
+![Question 6 Solution](https://github.com/Malab12/IBMPythonProjectForDataScience/blob/main/Results/q6.png?raw=true)
+
+
 
