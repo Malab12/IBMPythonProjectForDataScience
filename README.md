@@ -22,6 +22,6 @@ https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/dce69ae1-a3fa-44
 # Question 1:
 Using Yfinance to extract data for Tesla
 
-![Question 1 Solution](https://github.com/Malab12/IBMPythonProjectForDataScience/blob/main/results/q1.PNG?raw=true)
+![Question 1 Solution](https://github.com/Malab12/IBMPythonProjectForDataScience/blob/main/Results/q1.PNG?raw=true)
 
 
